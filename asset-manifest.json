@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/onlineshop/static/css/main.944e0435.css",
+    "main.js": "/onlineshop/static/js/main.e42683fa.js",
+    "static/js/453.2b55b1e4.chunk.js": "/onlineshop/static/js/453.2b55b1e4.chunk.js",
+    "static/media/banneros4.jpg": "/onlineshop/static/media/banneros4.6f789834b265da8ee907.jpg",
+    "static/media/banneros1.jpg": "/onlineshop/static/media/banneros1.6849350ca0d0c8a9f098.jpg",
+    "static/media/banneros2.jpg": "/onlineshop/static/media/banneros2.0cceb48109094557c764.jpg",
+    "static/media/Poppins-Bold.ttf": "/onlineshop/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/banneros3.jpg": "/onlineshop/static/media/banneros3.b2299192a3752dc4bc54.jpg",
+    "static/media/Inconsolata-Regular.ttf": "/onlineshop/static/media/Inconsolata-Regular.f60ac7422fec304dc1d6.ttf",
+    "static/media/fa-brands-400.woff2": "/onlineshop/static/media/fa-brands-400.6563814eb8bcc493b26b.woff2",
+    "static/media/fa-solid-900.woff2": "/onlineshop/static/media/fa-solid-900.ea995b6e6d0be9cd4319.woff2",
+    "static/media/m2.jpg": "/onlineshop/static/media/m2.84b7928f84e8a0f0dfdd.jpg",
+    "static/media/m4.jpg": "/onlineshop/static/media/m4.eae061c0a25dc51c3179.jpg",
+    "static/media/fa-regular-400.woff2": "/onlineshop/static/media/fa-regular-400.4e988e05601bf81ee2b0.woff2",
+    "static/media/m3.jpg": "/onlineshop/static/media/m3.2e52543711237f3ad238.jpg",
+    "static/media/m1.jpg": "/onlineshop/static/media/m1.a70db5e30e288d5a6792.jpg",
+    "static/media/s1.jpg": "/onlineshop/static/media/s1.e9631e8fa3fa21b2dfbf.jpg",
+    "index.html": "/onlineshop/index.html",
+    "main.944e0435.css.map": "/onlineshop/static/css/main.944e0435.css.map",
+    "main.e42683fa.js.map": "/onlineshop/static/js/main.e42683fa.js.map",
+    "453.2b55b1e4.chunk.js.map": "/onlineshop/static/js/453.2b55b1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944e0435.css",
+    "static/js/main.e42683fa.js"
+  ]
+}
